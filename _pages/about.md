@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Linguistics Pprogram at UC Davis. My interests lie in the intersection between machine and human models of language.
+Hi! I'm Timo (thy).
+
+I'm a PhD student at UC Davis.
