@@ -47,7 +47,7 @@ Projects
   * Developing a complete pipeline for various levels of English orthographic analysis
   * [Demo](https://ellipse-liu-nlp-demo-app-96m3lg.streamlit.app/)
 
-Slected Awards
+Selected Awards
 =======
 * Glushko Prize, 2024
   * Award in Cognitive Science at UC Davis for students demonstrating excellence in research and coursework
@@ -56,6 +56,6 @@ Slected Awards
 *  UC Davis Departmental Citation in Cognitive Science, 2024
   * Departmental Award for outstanding performance in research and coursework
 
-Publications
+Presentations
 ========
 T Liu, S Wood, and J. Schank (2024). Calling it Quits: An Agent-Based  Modeling Approach to Collaborative Group Work. ACT 2024 (Poster)
