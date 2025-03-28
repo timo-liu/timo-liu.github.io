@@ -11,13 +11,13 @@ redirect_from:
 
 Download
 ======
-View my CV as a pdf here: [CV](https://timo-liu.github.io/files/Timo-Liu-2024.pdf)
+View my CV as a pdf here: [CV](https://timo-liu.github.io/files/Timo-Liu-2025.pdf)
 
 Research experience
 ======
 * Graduate Student Researcher, 2024 - Present
   * UC Davis Computational Linguistics Lab
-  * Developing mechanistically interpretable LLMs
+  * Introducing phonological information in the tokenization step of LLM training
   * Advisor: [Dr. Kenji Sagae](https://compling.ucdavis.edu/sagae/)
 
 * Undergradaute/ Graduate Research Assistant, 2022 - Present
@@ -36,19 +36,11 @@ Education
   * Summa Cum Laude
   * GPA: 3.891
 
-Projects
-======
-* eng-syl, 2022 - Present
-  * Developing a Python package for accurate syllabification of English orthography
-  *[Github](https://github.com/timo-liu/eng-syl)
-  *[PyPi](https://pypi.org/project/eng-syl)
-
-* Machine Syllabification, Grapheme Extraction, Phonification, and Ussification, 2022 - Present
-  * Developing a complete pipeline for various levels of English orthographic analysis
-  * [Demo](https://ellipse-liu-nlp-demo-app-96m3lg.streamlit.app/)
-
-Selected Awards
+Selected Awards & Grants
 =======
+*  Provost’s Fellowship in the Arts, Humanities and Social Sciences Fellowship
+  * Awarded to one member of incoming cohort on merit
+
 * Glushko Prize, 2024
   * Award in Cognitive Science at UC Davis for students demonstrating excellence in research and coursework
   * One of three recipients in 2024
@@ -59,3 +51,10 @@ Selected Awards
 Presentations
 ========
 T Liu, S Wood, and J. Schank (2024). Calling it Quits: An Agent-Based  Modeling Approach to Collaborative Group Work. ACT 2024 (Poster)
+
+Projects
+======
+* eng-syl, 2022 - Present
+  * Developing a Python package for accurate syllabification of English orthography
+  *[Github](https://github.com/timo-liu/eng-syl)
+  *[PyPi](https://pypi.org/project/eng-syl)
