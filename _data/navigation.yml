@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /404.html
+  # - title: "Publications"
+  #  url: /404.html
 
   - title: "Transcript"
     url: /transcript/
 
-  - title: "Teaching"
-    url: /404.html  
+  # - title: "Teaching"
+  #  url: /404.html  
     
-  - title: "Portfolio"
-    url: /404.html
+  # - title: "Portfolio"
+  #  url: /404.html
     
   - title: "CV"
     url: /cv/
