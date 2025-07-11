@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<!---
 Download
 ======
-View my CV as a pdf here: [CV](https://timo-liu.github.io/files/Timo-Liu-2025.pdf)
+View my resume as a pdf here: [CV](https://timo-liu.github.io/files/Timo-Liu-2025.pdf)
+--->
 
 Research experience
 ======
@@ -55,6 +57,10 @@ T Liu, S Wood, and J. Schank (2024). Calling it Quits: An Agent-Based  Modeling 
 Projects
 ======
 * eng-syl, 2022 - Present
-  * Developing a Python package for accurate syllabification of English orthography
-  *[Github](https://github.com/timo-liu/eng-syl)
-  *[PyPi](https://pypi.org/project/eng-syl)
+  * Developing a Python package for accurate syllabification of English orthography [Github](https://github.com/timo-liu/eng-syl) [PyPi](https://pypi.org/project/eng-syl)
+
+Organizations
+======
+* UC Davis Archery Team, 2022 - Present
+
+* UC Davis Game Development and Arts Club, 2022 - Present

@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Timo, a PhD student in Linguistics at UC Davis. My research interests include large language model tokenization techniques and the intersection of natural language processing and psycholinguistics. In my spare time, I like to do archery and game design!
+Hi! I'm Timo, a second year PhD Student in Linguistics at UC Davis. My research interests lie at the intersection of computational linguistics and psycholinguistics. I'm currently interested in the impact of tokenization techniques on downstream task performance in Large Language models and orthographic effects in online speech processing in humans.
+
+Outside the lab, I am an active archer and hobbyist game developer. You might find me at a Game Jam or at the local archery range!
